@@ -1,0 +1,6 @@
+work/
+*.xls
+*.xlsx
+logs/
+__pycache__/
+*.pyc
